@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cBEMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|C:\\cBEMT\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|C:\\cBEMT\\bin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|solutionrelative:bin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|C:\\cBEMT\\ini.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702E363A-FF4D-46E5-8046-C408402B842B}|cBEMT.vcxproj|solutionrelative:ini.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ini.c",
+              "DocumentMoniker": "C:\\cBEMT\\ini.c",
+              "RelativeDocumentMoniker": "ini.c",
+              "ToolTip": "C:\\cBEMT\\ini.c",
+              "RelativeToolTip": "ini.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T10:01:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bin.cpp",
+              "DocumentMoniker": "C:\\cBEMT\\bin.cpp",
+              "RelativeDocumentMoniker": "bin.cpp",
+              "ToolTip": "C:\\cBEMT\\bin.cpp",
+              "RelativeToolTip": "bin.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T10:01:39.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHQCAAAAAAAAAAAxwIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-21T09:32:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\cBEMT\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\cBEMT\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAAAHYBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-18T06:14:17.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
