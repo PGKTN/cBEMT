@@ -4,5 +4,4 @@ C:\cBEMT\main.c(162,37): warning C4090: '함수': 'const' 한정자가 서로 �
 C:\cBEMT\main.c(202,36): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
 C:\cBEMT\main.c(242,36): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
 C:\cBEMT\main.c(282,46): warning C4244: '함수': 'double'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\cBEMT\main.c(370,5): warning C4047: '=': 'FILE *'의 간접 참조 수준이 'errno_t'과(와) 다릅니다.
   cBEMT.vcxproj -> C:\cBEMT\x64\Debug\cBEMT.exe

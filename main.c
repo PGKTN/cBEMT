@@ -363,30 +363,32 @@ int main()
 
 
 
-	/////////////////////////
-	/// LookUp Table 읽기 ///
-	/////////////////////////
-	FILE* fp;
-	fp = fopen_s(&fp, "test.txt","r");
-	if (fp == NULL)
-	{
-		printf("LookUp Table 불러오기 오류.\n");
-		return 0;
-	}
-	else
-	{
-		
-	}
-	fclose(fp);
+	///////////////////////////
+	///// LookUp Table 읽기 ///
+	///////////////////////////
+	//FILE* fp;
+	//fp = fopen_s(&fp, "test.txt","r");
+	//if (fp == NULL)
+	//{
+	//	printf("LookUp Table 불러오기 오류.\n");
+	//	return 0;
+	//}
+	//else
+	//{
+	//	
+	//}
+	//fclose(fp);
 
-	/////////////////////
-	/// Cl, Cd 구하기 ///
-	/////////////////////
-	double** reynolds_arr = (double**)malloc(sizeof(double*) * params_count);
+	///////////////////////
+	///// Cl, Cd 구하기 ///
+	///////////////////////
+	//double** reynolds_arr = (double**)malloc(sizeof(double*) * params_count);
 
-	for (int i = 0; i < params_count; i++)
-	{
-		reynolds_arr[i] = 0;
-	}
+	//for (int i = 0; i < params_count; i++)
+	//{
+	//	reynolds_arr[i] = 0;
+	//}
+
+
 	return 0;
 }
